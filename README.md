@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @balaQan, my real name is Bala Khan and I'm from Oslo! 
-- 👀 I’m interested in programming and develope new things!
+- 👀 I’m interested in programming and create new things!
 - 🌱 I’m currently learning PHP, I'm trying to learn English, yes I'm a good learner!
 - 💞️ I’m looking to collaborate on anybody who can teach me new lessons!
 - 📫 You can find me in here!
